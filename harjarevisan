@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-gnome-terminal -- mpv $HOME/Downloads/Gärdebylåten.mp3
-gnome-terminal -- man $HOME/.local/share/man/harjarevisan.man
+mpv Gärdebylåten.mp3 ; man harjarevisan.man
