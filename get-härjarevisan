@@ -1,7 +1,10 @@
 #!/bin/bash
 
+dir=härjarevisan
+
+if ![ -d "$dir" ]; then
 wget -P härjarevisan https://raw.githubusercontent.com/leonpx/Harjarevisan/master/Gardebylaten.mp3 https://raw.githubusercontent.com/leonpx/Harjarevisan/master/harjarevisan https://raw.githubusercontent.com/leonpx/Harjarevisan/master/harjarevisan.man
-#chmod +x härjarevisan/harjarevisan
-#./härjarevisan/harjarevisan
+fi
+
 mpv härjarevisan/Gardebylaten.mp3 &
 man härjarevisan/harjarevisan.man
