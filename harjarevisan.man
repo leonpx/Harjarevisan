@@ -1,7 +1,10 @@
-.TH "" "1" 
+.TH "HÄRJAREVISAN" "1" 
 .PP
-HÄRJAREVISAN{Liksom våra fäder, vikingarna i Norden}
 {Melodi: Gärdebylåten}
+
+.PP
+Text: Hans Alfredsson och Levin
+.br
 
 .PP
 Liksom våra fäder, vikingarna i Norden.
@@ -19,6 +22,21 @@ växer du med supen och blir stor ut i orden.
 Slå dig för ditt håriga bröst och bli
 .br
 en man från hår till häl.
+
+.PP
+Ja, nu skall vi ut och härja,
+.br
+supa och slåss och svärja,
+.br
+bränna röda stugor, slå små barn och säga fula ord.
+.br
+Med blod skall vi stäppen färga.
+.br
+Nu äntligen lär ja’
+.br
+kunna dra någon riktig nytta
+.br
+av min Hermodskurs i mord.
 
 .PP
 Hurra, nu ska man äntligen få röra benen,
@@ -61,8 +79,6 @@ ens om han målade med sked.
 Ja, nu skall vi ut och härja...
 .SH "Datavetarnas Härjarevisa"
 .PP
-Text: Hans Alfredsson och Levin
-.br
 Ur Lundaspexet Djingis Kahn 1954, första versen ej ur originalet.
 
 .PP
