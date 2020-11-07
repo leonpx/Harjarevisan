@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-mpv Gärdebylåten.mp3 ; man harjarevisan.man
+mpv Gardebylåten.mp3 ; man harjarevisan.man
