@@ -2,7 +2,7 @@
 
 dir=härjarevisan
 
-if ![ -d "$dir" ]; then
+if !(( -d "$dir" )) ; then
 wget -P härjarevisan https://raw.githubusercontent.com/leonpx/Harjarevisan/master/Gardebylaten.mp3 https://raw.githubusercontent.com/leonpx/Harjarevisan/master/harjarevisan https://raw.githubusercontent.com/leonpx/Harjarevisan/master/harjarevisan.man
 fi
 
