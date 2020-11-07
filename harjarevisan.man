@@ -1,0 +1,86 @@
+.TH "" "1" 
+.PP
+HÄRJAREVISAN{Liksom våra fäder, vikingarna i Norden}
+{Melodi: Gärdebylåten}
+
+.PP
+Liksom våra fäder, vikingarna i Norden.
+.br
+Drar vi riket runt och super oss under borden.
+.br
+Brännvinet har blitt ett elixir,
+.br
+för kropp såväl som själ.
+.br
+Känner du dig liten och ynklig på jorden,
+.br
+växer du med supen och blir stor ut i orden.
+.br
+Slå dig för ditt håriga bröst och bli
+.br
+en man från hår till häl.
+
+.PP
+Hurra, nu ska man äntligen få röra benen,
+.br
+hela stammen jublar och det spritter i grenen.
+.br
+Tänk att än en gång få spränga fram
+.br
+på Brunte i galopp!
+.br
+Din doft o kära Brunte är trots sin brist i hygienen,
+.br
+för en vild mongol minst lika ljuv som syrenen.
+.br
+Tänk att på din rygg få rida runt
+.br
+i stan och spela topp.
+
+.PP
+Ja, nu skall vi ut och härja...
+
+.PP
+Ja, mordbränder är klämmiga ta fram fotogenen
+.br
+och eftersläckningen tillhör just de fenomenen
+.br
+inom brandmansyrket som jag tycker
+.br
+det är nån nytta med.
+.br
+Jag målar för mitt inre upp den härliga scenen;
+.br
+Blodrött mitt i brandgult, ej ens prins Eugen en
+.br
+lika mustig vy kan måla,
+.br
+ens om han målade med sked.
+
+.PP
+Ja, nu skall vi ut och härja...
+.SH "Datavetarnas Härjarevisa"
+.PP
+Text: Hans Alfredsson och Levin
+.br
+Ur Lundaspexet Djingis Kahn 1954, första versen ej ur originalet.
+
+.PP
+Nu ska vi kompilera,
+.br
+supa och penetrera
+.br
+söka rekusioner ända in
+.br
+till fixpunktssemantik.
+.br
+Av induktion och basfall
+.br
+blir man med lätthet asknall.
+.br
+Hashtabeller parsas rekursivt
+.br
+ifrån hår till häl
+
+.PP
+Text: Pär Mattsson \& Magnus Ingelbo från DVL Uppsala.
